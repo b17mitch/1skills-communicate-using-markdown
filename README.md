@@ -1,8 +1,8 @@
 # header
 this is my first markdown
-## h2
+## comments
 this is cool
 
 
-###
-thanks
+### footer
+thanks for watching
